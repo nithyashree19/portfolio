@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nithya Shree S – Portfolio
 ```
 npm install
@@ -9,3 +10,6 @@ Deploy: push to GitHub → vercel.com → Add New Project → Import → Deploy 
 
 ## Add your own images
 - Certificates → `public/certificates/ibm-skillsbuild.jpg`, `accenture-iaspire.jpg`, `nptel-c.jpg`, `nptel-java.jpg`
+=======
+# portfolio
+>>>>>>> 1fa80a9cd1925281f83215ceadb058f0e1f34bc3
